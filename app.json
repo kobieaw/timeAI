@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "timeAI",
+    "slug": "timeAI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "timeAI"
+}
